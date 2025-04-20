@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://your-username.github.io/tic-tac-toe",
+  "homepage": "https://strange086.github.io/tic-tac-toe",
 
   "scripts": {
   "start": "react-scripts start",
